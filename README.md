@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @penguinbb1
-- 🌱 自学CS61B(sp18)中，寻找课友!!一起讨论~
+- 🌱 funk cs
 - 📫 Reach me at ssflwxwybyyy63@163.com
 
 <!---
